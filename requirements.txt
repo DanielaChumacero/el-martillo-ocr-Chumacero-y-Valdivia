@@ -1,0 +1,6 @@
+anthropic
+pandas
+matplotlib
+jupyter
+python-dotenv
+pandas
